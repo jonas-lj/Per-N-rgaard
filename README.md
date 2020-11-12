@@ -6,6 +6,6 @@ The program may be built and run using Maven by executing `mvn install` to build
 
 The MOSEF library is included as a submodule since this code depends on it. You may also clone it directly from [GitHub](https://github.com/jonas-lj/MOSEF).
 
-![The first 160 notes in Per Nørgårds infinity series in C minor](https://raw.githubusercontent.com/jonas-lj/PerNoergaard/main/noergaard2.png)
+![The first 160 notes in Per Nørgårds infinity series in C minor](https://raw.githubusercontent.com/jonas-lj/PerNoergaard/main/noergaard3.png)
 
 *The first 160 notes in Per Nørgårds infinity series in C minor. *
