@@ -8,4 +8,4 @@ The MOSEF library is included as a submodule since this code depends on it. You 
 
 ![The first 160 notes in Per Nørgårds infinity series in C minor](https://raw.githubusercontent.com/jonas-lj/PerNoergaard/main/noergaard4.png)
 
-*The first 144 notes in Per Nørgårds infinity series in C minor. *
+*The first 144 notes in Per Nørgårds infinity series in C minor.*
